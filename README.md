@@ -1,8 +1,8 @@
-# THU-Beamer-Theme
+# ZJU-Beamer-Theme
 
 最初能追溯到的版本是 [https://www.latexstudio.net/archives/4051.html](https://www.latexstudio.net/archives/4051.html)
 
-我在16年的时候魔改了一发，20年的时候小修了一下，变成现在这样
+我在16年的时候魔改了一发，20年的时候小修了一下，变成现在这样，现已修改为浙江大学(ZJU)版本。
 
 Overleaf模板位于：[https://www.overleaf.com/latex/templates/thu-beamer-theme/vwnqmzndvwyb](https://www.overleaf.com/latex/templates/thu-beamer-theme/vwnqmzndvwyb)，可以直接点开
 
